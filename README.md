@@ -27,6 +27,9 @@ The final solution uses a CatBoostClassifier with GPU acceleration and tuned hyp
 Kaggle Playground Series – Season 6, Episode 6: Stellar Classification
 
 
-├── kaggle_stellar_classification_catboost.ipynb
+Stellar-Classification-Catboost-Kaggle-Playground-Series-S6E6/
+│
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── stellar_classification_catboost.ipynb
+└── .gitignore
