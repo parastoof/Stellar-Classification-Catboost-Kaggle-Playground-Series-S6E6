@@ -28,7 +28,11 @@ Kaggle Playground Series – Season 6, Episode 6: Stellar Classification
 
 
 Stellar-Classification-Catboost-Kaggle-Playground-Series-S6E6/
+
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 └──  stellar_classification_catboost.ipynb
