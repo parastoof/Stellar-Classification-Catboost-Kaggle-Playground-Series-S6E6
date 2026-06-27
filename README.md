@@ -31,5 +31,4 @@ Stellar-Classification-Catboost-Kaggle-Playground-Series-S6E6/
 │
 ├── README.md
 ├── requirements.txt
-├── stellar_classification_catboost.ipynb
-└── .gitignore
+└──  stellar_classification_catboost.ipynb
